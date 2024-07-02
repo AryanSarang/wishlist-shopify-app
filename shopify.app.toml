@@ -3,7 +3,7 @@
 client_id = "d0becc57b93bf0af346a9f1b3f49845a"
 name = "wishlist-firstapp"
 handle = "wishlist-firstapp"
-application_url = "https://wheat-reach-recipient-acre.trycloudflare.com"
+application_url = "https://arm-sellers-deck-li.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://wheat-reach-recipient-acre.trycloudflare.com/auth/callback",
-  "https://wheat-reach-recipient-acre.trycloudflare.com/auth/shopify/callback",
-  "https://wheat-reach-recipient-acre.trycloudflare.com/api/auth/callback"
+  "https://arm-sellers-deck-li.trycloudflare.com/auth/callback",
+  "https://arm-sellers-deck-li.trycloudflare.com/auth/shopify/callback",
+  "https://arm-sellers-deck-li.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
